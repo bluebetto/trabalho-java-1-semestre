@@ -21,10 +21,11 @@ public class Exercicio01 {
 		int numero1, numero2;
 		
 		System.out.println("Informe um número: ");
-		numero1 = leitor.nextInt();
+		numero1 = leitor.nextInt(); //Recebendo o numero 1
 		System.out.println("Informe outro número: ");
-		numero2 = leitor.nextInt();
+		numero2 = leitor.nextInt();//Recebendo o numero 2
 		
+		//Se o primeiro é maior que o segundo
 		if(numero1 > numero2){
 			System.out.println("O primeiro número é maior");
 		}else if(numero2 > numero1){
