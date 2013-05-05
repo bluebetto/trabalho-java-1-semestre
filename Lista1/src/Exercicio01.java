@@ -5,6 +5,8 @@ import java.util.Scanner;
  */
 
 /**
+ * Exercicio 01
+ * Escrever um algoritmo para ler dois valores numéricos e apresentar qual é o maior
  * @author Betto
  *
  */
@@ -14,6 +16,7 @@ public class Exercicio01 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		System.out.println("Exercicio 01");
 		Scanner leitor = new Scanner(System.in);
 		int numero1, numero2;
 		
