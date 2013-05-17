@@ -1,7 +1,7 @@
 .metadata
 .settings
 *.class
-
+desktop.ini
 # Package Files #
 *.jar
 *.war
