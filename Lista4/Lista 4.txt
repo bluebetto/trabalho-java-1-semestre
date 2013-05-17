@@ -1,0 +1,22 @@
+
+38) Desenvolva um programa que calcule a média aritmética de um aluno através de 4 notas. Deverá ser criado um método que retorne o referido cálculo.
+
+39) Desenvolva um programa que calcule a média aritmética de um aluno através de 4 notas. Deverá ser criado um método que não retorne nada e o mesmo deverá imprimir a referida média.
+
+40) Faça um programa que solicita um valor para o usuário de uma medida em KMs. O programa deverá converter essa medida em metros e centímetros. Para cada conversão deverá ser criado um procedimento e o retorno dos mesmos deverá ser o valor convertido.
+
+41) Faça um programa que solicita um valor para o usuário. O programa deverá indicar se esse valor é zero, positivo ou negativo. Esse status deverá ser retornado em uma função que terá as seguintes saídas:
+	a.	0 (Zero): Valor igual a zero.
+	b.	1 (Um): Valor positivo.
+	c.	-1 (Menos um): Valor negativo.
+Depois que o valor do retorno for calculado, o programa deverá ter uma outra função que imprimirá na tela o status do número (De acordo com a tabela anterior).
+
+42) Faça um programa que receba uma temperatura em Celsius. O programa deverá converter essa temperatura para Kelvin (Celsius + 273.15) e para Fahrenheit (Celsius * 1,8 + 32). Para ambas as conversões deverão ser criadas funções que calculem e retornem o valor convertido.
+
+43) Utilizando a sobrecarga de métodos, crie 3 métodos que realizem a soma dos valores de entrada e possuam o nome "somatoria". O primeiro método deverá receber como entrada 2 parâmetros. O segundo deverá receber como entrada 3 parâmetros. O terceiro método deverá receber como entrada um vetor de elementos. Para todos os métodos, os parâmetros de entrada deverão ser do tipo float e o retorno das referidas funções também.
+
+44) Faça um programa que realize a somatória da série de Fibonacci. Se o usuário informar 3, deverão ser somadas os 3 primeiros elementos da série. A maneira do dado ser enviado para o programa deverá ser através do array "args" usado como parâmetro no método main.
+
+45) Faça um programa que explore pelo menos 15 métodos da biblioteca Math. A chamada aos métodos deverá ser feita diretamente no código.
+
+46) Faça um programa que explore pelo menos 5 métodos de uma biblioteca escolhida por você. A chamada aos métodos deverá ser feita diretamente no código.
