@@ -25,6 +25,7 @@ public class Exercicio4 {
 			System.out.println(numero1+" + "+numero2+" = "+(numero1+numero2));
 			System.out.println(numero1+" - "+numero2+" = "+(numero1-numero2));
 			System.out.println(numero1+" * "+numero2+" = "+(numero1*numero2));
+			System.out.println(numero1+" ^ "+numero2+" = "+(Math.pow(numero1, numero2)));
 			if(numero2 == 0) throw new ArithmeticException();
 			System.out.println(numero1+" / "+numero2+" = "+(numero1/numero2));
 		}catch(NumberFormatException e){
